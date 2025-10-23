@@ -26,9 +26,9 @@ Through this course, I want to strengthen my ability to:
 After graduating from the MISM program, I plan to work as a data scientist. My long-term goal is to use data visualization and analytical methods to help organizations make smarter decisions. I believe combining data and storytelling can bridge the gap between technical findings and human understanding. Outside of academics, I enjoy traveling, hiking, and capturing landscapes through photography. These activities help me appreciate visual balance and design, which I think connects surprisingly well with data visualization. If you’re also passionate about storytelling with data or have creative visualization tools to recommend, I’d love to connect and exchange ideas!
 
 # Portfolio
-Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-Assignment 3&4: [Critique by Design](critique-by-design)
-Final project
+Assignment: [Visualizing overnment Debt](visualizing-government-debt)  
+Assignment 3&4: [Critique by Design](critique-by-design)  
+Final project  
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
