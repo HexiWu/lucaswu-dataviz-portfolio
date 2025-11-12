@@ -26,7 +26,7 @@ During the critique session, I received several useful comments:
   The title should update automatically to reflect the selected year.
 These insights shaped the improvements in the final redesign.
 
-<img width="468" height="365" alt="Picture2" src="https://github.com/user-attachments/assets/3d49658d-eb64-4c30-97b6-e2f007aac298" />
+<img src="https://github.com/user-attachments/assets/3d49658d-eb64-4c30-97b6-e2f007aac298" width="100%">
 
 
 ---
