@@ -9,7 +9,8 @@ The graphic also contains heavy stylized elementsâ€”icons, ornaments, texturesâ€
 
 These limitations made the visualization a strong candidate for critique and redesign.
 
-<img width="468" height="373" alt="Picture1" src="https://github.com/user-attachments/assets/292b24d5-9373-45ad-b1e1-fe9f31415840" />
+![Picture3](https://github.com/user-attachments/assets/abc97062-149a-49bc-af7f-bf2a069f1047)
+
 
 ---
 
