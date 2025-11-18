@@ -18,8 +18,7 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 - Visualization 1&2&3:Show the demographic composition of hikers.
 - Visualization 4:Compare stated trail-type preferences with actual trail-type usage.
 - Visualization 5:Display the frequency of use for different access infrastructures.
-- Visualization 4:Present the percentage of respondents ranking each of the eight trail characteristics as their top three priorities.
-- Visualization 5:Show the importance ratings for various hospitality infrastructures.
+- Visualization 6:Show the importance ratings for various hospitality infrastructures.
 
 
 ## Initial sketches
