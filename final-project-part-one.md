@@ -13,7 +13,6 @@ To explore this question, I turn to publicly available U.S. datasets that captur
 
 By exploring this question, I hope to understand the subtle trade-offs hikers make between convenience and ideal preferences. Understanding these dynamics can help us make smarter choices as hikers and advocate for more well-designed outdoor spaces.
 
-
 ## Outline
 - Introduction of Topic
 - Summary of project
@@ -25,24 +24,6 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 
 
 ## Initial sketches
-
-
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/26294173">
-	<script src="https://public.flourish.studio/resources/embed.js">
-	</script>
-	<noscript>
-		<img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" />
-	</noscript>
-</div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/26296992">
-	<script src="https://public.flourish.studio/resources/embed.js">
-	</script>
-	<noscript>
-		<img src="https://public.flourish.studio/visualisation/26296992/thumbnail" width="100%" alt="chart visualization" />
-	</noscript>
-</div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/26296069"><script src="https://public.flourish.studio/resources/embed.js"></script>
 	<noscript>
@@ -66,29 +47,32 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 	</noscript>
 </div>
 
+Visualization 4 compares the reported use of trails and the stated preferences of respondents on a Likert scale for the same types of trails.
+<div class="flourish-embed flourish-chart" data-src="visualisation/26294173">
+	<script src="https://public.flourish.studio/resources/embed.js">
+	</script>
+	<noscript>
+		<img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" />
+	</noscript>
+</div>
 
+Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures and means such as cableways, public transportation, parking lots, and car roads.
+<div class="flourish-embed flourish-chart" data-src="visualisation/26296992">
+	<script src="https://public.flourish.studio/resources/embed.js">
+	</script>
+	<noscript>
+		<img src="https://public.flourish.studio/visualisation/26296992/thumbnail" width="100%" alt="chart visualization" />
+	</noscript>
+</div>
 
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+Visualization 6 illustrates respondents’ perceived importance of various hospitality infrastructures when choosing mountain trails. 
+<div class="flourish-embed flourish-radar" data-src="visualisation/26297755"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26297755/thumbnail" width="100%" alt="radar visualization" /></noscript></div>
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+The U.S. Forest Service National Visitor Use Monitoring (NVUM) dataset (https://www.fs.usda.gov/recreation/programs/nvum/) tracks visitor preferences for trail amenities, signage, safety information, infrastructure, and trail types in national forests. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+To complete this final project, I plan to use Shorthand to build the presentation and integrate interactive visual storytelling. All visualizations will be created using Flourish and Tableau. I initially hoped to include a dataset linking hikers’ path choices with geographic trail locations, but I was unable to find a publicly accessible dataset that provides spatial information and preference attributes. If I locate a suitable dataset later in the process, I may incorporate it into the final story.
 
 ## References
 _List any references you used here._
