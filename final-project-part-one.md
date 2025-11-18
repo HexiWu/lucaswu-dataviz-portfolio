@@ -1,18 +1,32 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Final Project Part I
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## Summary of project: 
+I first fell in love with hiking during my undergraduate years in China, where I spent weekends exploring trails across mountain parks and nature reserves. After coming to the U.S. for graduate school, this habit naturally continued — from unforgettable hikes in Yosemite National Park to monthly trips to Pittsburgh’s Frick Park. No matter the scale of the landscape, hiking has remained one of the most consistent ways for me to slow down and feel grounded.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+But over time, I noticed something interesting about my routines. The trails I thought I liked weren’t always the trails I actually chose. I often imagined myself preferring rugged and scenic paths. But my actual trail choices were usually the ones that were easy to reach.
+That realization sparked a bigger question: How do hikers actually make decisions about which trails to visit?
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+To explore this question, I turn to publicly available U.S. datasets that capture real recreation behavior:
+	•	The U.S. Forest Service National Visitor Use Monitoring (NVUM) dataset (https://www.fs.usda.gov/recreation/programs/nvum/), which tracks visitor preferences for trail amenities, signage, safety information, infrastructure, and trail types in national forests.
 
-Text here...
+By exploring this question, I hope to understand the subtle trade-offs hikers make between convenience and ideal preferences. Understanding these dynamics can help us make smarter choices as hikers and advocate for more well-designed outdoor spaces.
+
+
+## Outline
+- Introduction of Topic
+- Summary of project
+- Visualization 1:Show the demographic composition of hikers.
+- Visualization 2:Compare stated trail-type preferences with actual trail-type usage.
+- Visualization 3:Display the frequency of use for different access infrastructures.
+- Visualization 4:Present the percentage of respondents ranking each of the eight trail characteristics as their top three priorities.
+- Visualization 5:Show the importance ratings for various hospitality infrastructures.
+
 
 ## Initial sketches
+<div class="flourish-embed flourish-chart" data-src="visualisation/26294173"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Text here...
