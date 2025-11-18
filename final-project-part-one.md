@@ -8,8 +8,7 @@ I first fell in love with hiking during my undergraduate years in China, where I
 But over time, I noticed something interesting about my routines. The trails I thought I liked weren’t always the trails I actually chose. I often imagined myself preferring rugged and scenic paths. But my actual trail choices were usually the ones that were easy to reach.
 That realization sparked a bigger question: How do hikers actually make decisions about which trails to visit?
 
-To explore this question, I turn to publicly available U.S. datasets that capture real recreation behavior:
-	•	The U.S. Forest Service National Visitor Use Monitoring (NVUM) dataset (https://www.fs.usda.gov/recreation/programs/nvum/), which tracks visitor preferences for trail amenities, signage, safety information, infrastructure, and trail types in national forests.
+To explore this question, I turn to publicly available U.S. datasets that capture real recreation behavior. The U.S. Forest Service National Visitor Use Monitoring (NVUM) dataset (https://www.fs.usda.gov/recreation/programs/nvum/) tracks visitor preferences for trail amenities, signage, safety information, infrastructure, and trail types in national forests.
 
 By exploring this question, I hope to understand the subtle trade-offs hikers make between convenience and ideal preferences. Understanding these dynamics can help us make smarter choices as hikers and advocate for more well-designed outdoor spaces.
 
@@ -25,12 +24,12 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 
 ## Initial sketches
 
+Visualizations 1, 2 & 3 paint a clear demographic portrait of hikers, showing how gender, employment, and age patterns shape the outdoor recreation community.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26296069"><script src="https://public.flourish.studio/resources/embed.js"></script>
 	<noscript>
 		<img src="https://public.flourish.studio/visualisation/26296069/thumbnail" width="100%" alt="chart visualization" />
 	</noscript>
 </div>
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/26297092">
 	<script src="https://public.flourish.studio/resources/embed.js">
 	</script>
@@ -38,7 +37,6 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 		<img src="https://public.flourish.studio/visualisation/26297092/thumbnail" width="100%" alt="chart visualization" />
 	</noscript>
 </div>
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/26296992">
 	<script src="https://public.flourish.studio/resources/embed.js">
 	</script>
@@ -69,13 +67,17 @@ Visualization 6 illustrates respondents’ perceived importance of various hospi
 <div class="flourish-embed flourish-radar" data-src="visualisation/26297755"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26297755/thumbnail" width="100%" alt="radar visualization" /></noscript></div>
 
 # The data
-The U.S. Forest Service National Visitor Use Monitoring (NVUM) dataset (https://www.fs.usda.gov/recreation/programs/nvum/) tracks visitor preferences for trail amenities, signage, safety information, infrastructure, and trail types in national forests. 
+My primary dataset is the U.S. Forest Service  National Visitor Use Monitoring ([NVUM](https://www.fs.usda.gov/recreation/programs/nvum/)) dataset, which contains survey data on visitor trail use patterns and preferences for infrastructure. These data allow me to paint a clear demographic portrait of hikers, compare stated versus reported travel preferences, and evaluate the frequency of use of accessibility infrastructures.
+To analyze the perceived importance of hospitality services, I also incorporate facility-level information from the National Park Service (NPS) Visitor Facilities open-data portal([NPS](https://public-nps.opendata.arcgis.com/search?q=Facilities)). 
 
 # Method and medium
 To complete this final project, I plan to use Shorthand to build the presentation and integrate interactive visual storytelling. All visualizations will be created using Flourish and Tableau. I initially hoped to include a dataset linking hikers’ path choices with geographic trail locations, but I was unable to find a publicly accessible dataset that provides spatial information and preference attributes. If I locate a suitable dataset later in the process, I may incorporate it into the final story.
 
 ## References
-_List any references you used here._
+•	U.S. Forest Service. National Visitor Use Monitoring (NVUM) Program. Retrieved from
+	https://www.fs.usda.gov/recreation/programs/nvum/
+•	National Park Service. NPS Visitor Use Statistics & Facilities Open Data Portal. Retrieved from
+	https://public-nps.opendata.arcgis.com/	
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Parts of the writing were refined with AI-assisted editing tools to improve phrasing and clarity. 
