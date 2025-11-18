@@ -39,6 +39,13 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 	</noscript>
 </div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/26296992">
+	<script src="https://public.flourish.studio/resources/embed.js">
+	</script>
+	<noscript>
+		<img src="https://public.flourish.studio/visualisation/26296992/thumbnail" width="100%" alt="chart visualization" />
+	</noscript>
+</div>
 
 Visualization 4 compares the reported use of trails and the stated preferences of respondents on a Likert scale for the same types of trails.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26294173">
@@ -50,11 +57,11 @@ Visualization 4 compares the reported use of trails and the stated preferences o
 </div>
 
 Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures and means such as cableways, public transportation, parking lots, and car roads.
-<div class="flourish-embed flourish-chart" data-src="visualisation/26296992">
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/26297209">
 	<script src="https://public.flourish.studio/resources/embed.js">
 	</script>
 	<noscript>
-		<img src="https://public.flourish.studio/visualisation/26296992/thumbnail" width="100%" alt="chart visualization" />
+		<img src="https://public.flourish.studio/visualisation/26297209/thumbnail" width="100%" alt="hierarchy visualization" />
 	</noscript>
 </div>
 
