@@ -39,13 +39,6 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 	</noscript>
 </div>
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/26297209">
-	<script src="https://public.flourish.studio/resources/embed.js">
-	</script>
-	<noscript>
-		<img src="https://public.flourish.studio/visualisation/26297209/thumbnail" width="100%" alt="hierarchy visualization" />
-	</noscript>
-</div>
 
 Visualization 4 compares the reported use of trails and the stated preferences of respondents on a Likert scale for the same types of trails.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26294173">
