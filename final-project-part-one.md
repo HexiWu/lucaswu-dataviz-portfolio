@@ -25,7 +25,19 @@ By exploring this question, I hope to understand the subtle trade-offs hikers ma
 
 
 ## Initial sketches
+
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/26294173"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/26296069"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26296069/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/26297092"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26297092/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/26297209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26297209/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
+
+
 
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
