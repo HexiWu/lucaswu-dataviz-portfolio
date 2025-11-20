@@ -81,10 +81,10 @@ To complete this final project, I plan to use Shorthand to build the presentatio
 
 ## References
 •	U.S. Forest Service. National Visitor Use Monitoring (NVUM) Program. Retrieved from
-	https://www.fs.usda.gov/recreation/programs/nvum/
+	https://www.fs.usda.gov/recreation/programs/nvum/  
 •	National Park Service. NPS Visitor Use Statistics & Facilities Open Data Portal. Retrieved from
-	https://public-nps.opendata.arcgis.com/	
-• 	Outdoor Foundation. 2024. 2024 Outdoor Participation Trends Report. Boulder, CO: Outdoor Industry Association.
+	https://public-nps.opendata.arcgis.com/	  
+• 	Outdoor Foundation. 2024. 2024 Outdoor Participation Trends Report. Boulder, CO: Outdoor Industry Association.  
 • 	“Diseases of Poverty.” 2023. In International Encyclopedia of Public Health, Section on Physical Activity Environments. Elsevier.
 
 ## AI acknowledgements
