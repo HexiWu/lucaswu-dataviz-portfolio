@@ -74,7 +74,7 @@ Visualization 5 evaluates the  frequency of use of Mountain accessibility infras
 </div>
 
 Visualization 6 illustrates respondents’ perceived importance of various hospitality infrastructures when choosing mountain trails. 
-<div class="flourish-embed flourish-radar" data-src="visualisation/26297755"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26297755/thumbnail" width="100%" alt="radar visualization" /></noscript></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/26345954"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26345954/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 # The data
 My primary dataset is the U.S. Forest Service  National Visitor Use Monitoring ([NVUM](https://www.fs.usda.gov/recreation/programs/nvum/)) dataset, which contains survey data on visitor trail use patterns and preferences for infrastructure. These data allow me to paint a clear demographic portrait of hikers, compare stated versus reported travel preferences, and evaluate the frequency of use of accessibility infrastructures.
