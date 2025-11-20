@@ -54,7 +54,7 @@ Visualizations 1, 2 & 3 paint a clear demographic portrait of hikers, showing ho
 	</noscript>
 </div>
 
-Visualization 4 compares the reported use of trails and the stated preferences of respondents on a Likert scale for the same types of trails.
+Visualization 4 compares the reported use of trails and the stated preferences of hikers for the same types of trails.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26294173"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures.
