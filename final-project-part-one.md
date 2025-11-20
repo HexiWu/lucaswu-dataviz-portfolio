@@ -55,13 +55,7 @@ Visualizations 1, 2 & 3 paint a clear demographic portrait of hikers, showing ho
 </div>
 
 Visualization 4 compares the reported use of trails and the stated preferences of respondents on a Likert scale for the same types of trails.
-<div class="flourish-embed flourish-chart" data-src="visualisation/26294173">
-	<script src="https://public.flourish.studio/resources/embed.js">
-	</script>
-	<noscript>
-		<img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" />
-	</noscript>
-</div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/26294173"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures.
 <div class='tableauPlaceholder' id='viz1763603030419' style='position: relative'><noscript><a href='#'><img alt='Frequency use of Mountain accessibility infrastructures ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Infrastructures_17636029722270&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Infrastructures_17636029722270&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Infrastructures_17636029722270&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
