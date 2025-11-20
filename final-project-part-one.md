@@ -33,7 +33,6 @@ For individual hikers, I hope we can pause and make one intentional choice. The 
 For land managers and planners, I hope that people designing parks and trails take seriously how much access shapes behavior. When good facilities are available, more people show up. By investing in infrastructure that lowers barriers, planners can make outdoor recreation possible for more people.
 
 ## Initial sketches
-
 Visualizations 1, 2 & 3 paint a clear demographic portrait of hikers, showing how gender, employment, and age patterns shape the outdoor recreation community.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26296069"><script src="https://public.flourish.studio/resources/embed.js"></script>
 	<noscript>
@@ -64,17 +63,23 @@ Visualization 4 compares the reported use of trails and the stated preferences o
 	</noscript>
 </div>
 
-Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures and means such as cableways, public transportation, parking lots, and car roads.
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/26297209">
+Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures.
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/26297295">
 	<script src="https://public.flourish.studio/resources/embed.js">
 	</script>
 	<noscript>
-		<img src="https://public.flourish.studio/visualisation/26297209/thumbnail" width="100%" alt="hierarchy visualization" />
+		<img src="https://public.flourish.studio/visualisation/26297295/thumbnail" width="100%" alt="hierarchy visualization" />
 	</noscript>
 </div>
 
-Visualization 6 illustrates respondents’ perceived importance of various hospitality infrastructures when choosing mountain trails. 
-<div class="flourish-embed flourish-chart" data-src="visualisation/26345954"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26345954/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+Visualization 6 illustrates which kinds of hospitality facilities hikers actually choose. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/26345954">
+	<script src="https://public.flourish.studio/resources/embed.js">
+	</script>
+	<noscript>
+		<img src="https://public.flourish.studio/visualisation/26345954/thumbnail" width="100%" alt="chart visualization" />
+	</noscript>
+</div>
 
 # The data
 My primary dataset is the U.S. Forest Service  National Visitor Use Monitoring ([NVUM](https://www.fs.usda.gov/recreation/programs/nvum/)) dataset, which contains survey data on visitor trail use patterns and preferences for infrastructure. These data allow me to paint a clear demographic portrait of hikers, compare stated versus reported travel preferences, and evaluate the frequency of use of accessibility infrastructures.
