@@ -33,6 +33,7 @@ For individual hikers, I hope we can pause and make one intentional choice. The 
 For land managers and planners, I hope that people designing parks and trails take seriously how much access shapes behavior. When good facilities are available, more people show up. By investing in infrastructure that lowers barriers, planners can make outdoor recreation possible for more people.
 
 ## Initial sketches
+
 Visualizations 1, 2 & 3 paint a clear demographic portrait of hikers, showing how gender, employment, and age patterns shape the outdoor recreation community.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26296069"><script src="https://public.flourish.studio/resources/embed.js"></script>
 	<noscript>
@@ -54,14 +55,17 @@ Visualizations 1, 2 & 3 paint a clear demographic portrait of hikers, showing ho
 	</noscript>
 </div>
 
+
 Visualization 4 compares the reported use of trails and the stated preferences of hikers for the same types of trails.
 <div class="flourish-embed flourish-chart" data-src="visualisation/26294173"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26294173/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
 
 Visualization 5 evaluates the  frequency of use of Mountain accessibility infrastructures.
 <div class='tableauPlaceholder' id='viz1763603030419' style='position: relative'><noscript><a href='#'><img alt='Frequency use of Mountain accessibility infrastructures ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Infrastructures_17636029722270&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Infrastructures_17636029722270&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Infrastructures_17636029722270&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
 	var divElement = document.getElementById('viz1763603030419');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 Visualization 6 illustrates which kinds of hospitality facilities hikers actually choose. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/26345954">
@@ -71,6 +75,7 @@ Visualization 6 illustrates which kinds of hospitality facilities hikers actuall
 		<img src="https://public.flourish.studio/visualisation/26345954/thumbnail" width="100%" alt="chart visualization" />
 	</noscript>
 </div>
+
 
 # The data
 My primary dataset is the U.S. Forest Service  National Visitor Use Monitoring ([NVUM](https://www.fs.usda.gov/recreation/programs/nvum/)) dataset, which contains survey data on visitor trail use patterns and preferences for infrastructure. These data allow me to paint a clear demographic portrait of hikers, compare stated versus reported travel preferences, and evaluate the frequency of use of accessibility infrastructures.
