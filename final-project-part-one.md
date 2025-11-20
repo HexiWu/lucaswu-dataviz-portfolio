@@ -7,7 +7,7 @@ I fell in love with hiking as an undergraduate and spent weekends chasing dramat
 
 However, I noticed something uncomfortable about my own habits. I pictured myself as the kind of hiker who prefers rugged and scenic trails in my head. In practice, the trails I actually chose were usually the ones that were easiest to reach. I realized that what we think we like and what we actually choose are often shaped by things we don’t notice.
 
-That realization made me wonder: how many other hikers think they are choosing with their hearts, when their feet are really following the most convenient option? National data suggest this is not just a personal quirk. Hiking has exploded since the pandemic—day hiking participation in the U.S. grew by roughly 28% between 2019 and 2023, making it one of the fastest-growing outdoor activities(Outdoor Foundation 2024). Access to safe, nearby nature is not evenly shared. Research on physical activity environments in the U.S. finds that only about one in five homes in low-income neighborhoods has a park within half a mile, and that expanded availability of local recreation spaces is strongly associated with higher physical activity(“Diseases of Poverty” 2023). In other words, being a hiker is much easier if you happen to live near good trails and infrastructure.
+That realization made me wonder: how many other hikers think they are choosing with their hearts, when their feet are really just following convenience? National data show that this pattern is common. Many outdoor participants say they enjoy challenging or remote environments, but their actual behavior is strongly influenced by proximity and ease of access—people are far more likely to visit places that require less travel time and simpler logistics (Outdoor Foundation 2024). In other words, convenience quietly shapes outdoor choices more than most of us admit.
 
 To explore this tension between what hikers say they want and what their environments make easy, I turn to two complementary public datasets. The U.S. Forest Service’s National Visitor Use Monitoring (NVUM) program provides nationally representative surveys of visitors to national forests, including their activities, demographics, trail types, amenities used, and trip characteristics. The National Park Service’s Visitor Facilities open data portal adds facility information about trailheads, parking, lodges, restrooms, and other infrastructure. These datasets let me move from my anecdote to a broader question:
 
@@ -85,7 +85,6 @@ To complete this final project, I plan to use Shorthand to build the presentatio
 •	National Park Service. NPS Visitor Use Statistics & Facilities Open Data Portal. Retrieved from
 	https://public-nps.opendata.arcgis.com/	  
 • 	Outdoor Foundation. 2024. 2024 Outdoor Participation Trends Report. Boulder, CO: Outdoor Industry Association.  
-• 	“Diseases of Poverty.” 2023. In International Encyclopedia of Public Health, Section on Physical Activity Environments. Elsevier.
 
 ## AI acknowledgements
 Parts of the writing were refined with AI-assisted editing tools to improve phrasing and clarity. 
