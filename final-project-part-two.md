@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 To further develop my story outline visually, I built my draft directly in Shorthand. It allows me to prototype narrative flow in the format the final story will use. 
-My draft Shorthand story can be viewed below:
+My draft Shorthand story can be viewed below:  
 https://preview.shorthand.com/t2X6NLgNJpPJS4OW
 
 
