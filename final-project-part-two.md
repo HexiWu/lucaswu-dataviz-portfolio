@@ -65,7 +65,7 @@ Based on the interview findings, I identified several improvements. These change
 | Certain visualizations (facility maps, hex visuals) were unclear without labels or legends. | Add explicit legends, clearer labels, and short captions describing how to read each chart. |
 | Need clearer explanation of why the issue matters personally or socially. | Strengthen the introduction with a sentence connecting my personal Yosemite experience to the broader issue. |
 | Hospitality infrastructure section felt under-explained. | Add one clarifying sentence defining hospitality infrastructure and why hikers depend on it. |
-| Non-hikers needed simple definitions for technical terms. | Add brief tooltip-style definitions (e.g., trailhead infrastructure, access facilities). |
+| Non-hikers needed simple definitions for technical terms. | Add brief tooltip-style definitions. |
 | Some visualizations looked busy for users unfamiliar with data. | Simplify styling, reduce unnecessary colors, and use consistent visual encoding across charts. |
 | Readers wanted concrete examples (parks, underserved trails). | Add one short example comparing two real trails with contrasting infrastructure access. |
 | Engagement increased during personal story, but could be integrated more. | Add small personal touchpoints earlier and before the first visualization. |
