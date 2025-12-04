@@ -46,5 +46,4 @@ After graduating from the MISM program, I plan to work as a data scientist. My l
 
 ## Week 7
 - **Final Project Presentation: [Part One](final-project-part-one.md), [Part Two](final-project-part-two.md), [Part Three](final-project-part-three.md)**
-- **Final Project Deliverable via Shorthand: [Why Outdoor Activity Matters]
-- (https://carnegiemellon.shorthandstories.com/final-report-LucasWu/index.html)**
+- **Final Project Deliverable via Shorthand: [Why Outdoor Activity Matters](https://carnegiemellon.shorthandstories.com/final-report-LucasWu/index.html)**
