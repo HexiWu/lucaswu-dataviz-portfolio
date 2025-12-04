@@ -1,16 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-LucasWu
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Lucaswu-tswd-portfolio
+This is my public portfolio for Telling Stories with Data at Heinz College of Carnegie Mellon University! 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+- **Web Page URL: https://hexiwu.github.io/lucaswu-dataviz-portfolio/** 
+- **This repository: https://github.com/hexiwu/lucaswu-dataviz-portfolio**
 
 # About me
+![Weixin Image_2025-12-04_174353_195](https://github.com/user-attachments/assets/81f1591d-cffe-4e48-a18f-40a183116023)
+
 Hi! My name is Lucas Wu, and I’m a student in the Master of Information Systems Management at Carnegie Mellon University.  
 I’m passionate about data — from how it’s collected and structured to how it can be analyzed to drive decisions and solve real-world problems.  
 
@@ -26,6 +24,15 @@ Through this course, I want to strengthen my ability to:
 After graduating from the MISM program, I plan to work as a data scientist. My long-term goal is to use data visualization and analytical methods to help organizations make smarter decisions. I believe combining data and storytelling can bridge the gap between technical findings and human understanding. Outside of academics, I enjoy traveling, hiking, and capturing landscapes through photography. These activities help me appreciate visual balance and design, which I think connects surprisingly well with data visualization. If you’re also passionate about storytelling with data or have creative visualization tools to recommend, I’d love to connect and exchange ideas!
 
 # Portfolio
+## Week 1 
+- In-class sketching exercise 
+- Data visualization critique #1
+- Week One sketching exercise - Controlling Color
+- **Personal portfolio: https://hexiwu.github.io/lucaswu-dataviz-portfolio/**
+  
+## Week 2
+- **Data Visualization #1: [Visualizing Government Debt](visualizing-government-debt.md)**
+- Week Two sketching exercise - Crafting for Clarity
 Assignment: [Visualizing overnment Debt](visualizing-government-debt)  
 
 <div class='tableauPlaceholder' id='viz1761854782161' style='position: relative'><noscript><a href='#'><img alt='Trust and new organizationSource： Simmons Research, 2018 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trustandneworganization&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Trustandneworganization&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trustandneworganization&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
